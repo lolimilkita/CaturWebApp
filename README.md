@@ -1,5 +1,6 @@
 # CaturWebApp
 
+This App is for CRUD simple tasks with status Pending, In Progress, or Completed 
 
 ### Project Requirements
 1. Visual Studio
