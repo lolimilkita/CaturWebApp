@@ -14,4 +14,4 @@
 5. Edit Web.Config with your configuration SQL Server
 6. F5 on keyboard or run the project (Debug -> Start Debugging)
 
-<img src="https://github.com/lolimilkita/CaturWebApp/blob/master/img/test1.png" width="450px" height="auto">
+<img src="https://github.com/lolimilkita/CaturWebApp/blob/master/img/test1.PNG" width="450px" height="auto">
